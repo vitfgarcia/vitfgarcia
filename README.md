@@ -1,25 +1,69 @@
-# Hello, my name is Vitor Garcia
+<div align="center">
+  <h1>Vitor Garcia</h1>
+  <h3>Staff‑level Engineer who builds scalable, resilient systems</h3>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitfgarcia&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitfgarcia&layout=compact&show_icons=true&theme=gotham" />
-<div>
+  <p>
+    Backend‑leaning full‑stack engineer passionate about designing distributed systems, helping teams ship faster,
+    and turning messy domains into clean, maintainable architectures.
+  </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <p>
+    <strong>Currently focused on:</strong><br/>
+    Event‑driven systems with Go & TypeScript · Hexagonal Architecture & DDD · Observability & Reliability (OpenTelemetry, tracing, SLOs)
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/vitfgarcia/">LinkedIn</a> ·
+    <a href="mailto:vitfgarcia@gmail.com">Email</a>
+  </p>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/vitfgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vitfgarcia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-<!---
-vitfgarcia/vitfgarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr/>
+
+<h2>How I work</h2>
+<ul>
+  <li>I design systems for humans first, machines second</li>
+  <li>I care deeply about feedback loops: observability, metrics, tracing, and learning</li>
+  <li>I optimize for long‑term velocity, not short‑term heroics</li>
+  <li>I believe great engineers grow other great engineers</li>
+</ul>
+
+<h2>Engineering philosophy</h2>
+<p>
+  I gravitate towards architectures that create clarity: explicit boundaries, strong domain models, and boring‑on‑purpose infrastructure.
+  Hexagonal Architecture and DDD are not dogma for me — they’re tools to reduce cognitive load and help teams move faster with confidence.
+</p>
+
+<p>
+  I’m particularly excited about the intersection of:
+</p>
+<ul>
+  <li>Distributed systems & event‑driven architectures</li>
+  <li>Reliability engineering & observability</li>
+  <li>Developer experience & platform enablement</li>
+</ul>
+
+<h2>What you can expect from me</h2>
+<ul>
+  <li>Clear system design and thoughtful trade‑offs</li>
+  <li>Ownership from problem to production to learning</li>
+  <li>Calm, pragmatic leadership under uncertainty</li>
+  <li>Strong collaboration across product, design, and engineering</li>
+</ul>
+
+<h2>Tech I enjoy working with</h2>
+<ul>
+  <li>Go, TypeScript, Node.js, C#</li>
+  <li>Event‑driven systems, message brokers, and async workflows</li>
+  <li>NestJS, Gin, Echo</li>
+  <li>OpenTelemetry, Prometheus, Grafana</li>
+  <li>PostgreSQL, Redis</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  <em>"Build systems that customers love and enhance people"</em>
+</p>
+
+<!-- End README -->
